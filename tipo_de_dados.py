@@ -1,0 +1,5 @@
+print('tipo inteiro: %d' % (1 + 10 + 1000))
+print('tipo float: %d' % (0.3 + 15 +0.7))
+print(True)
+print(False)
+print('Python')
